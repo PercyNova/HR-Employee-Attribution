@@ -56,7 +56,7 @@ This analysis uses a publicly available HR dataset that contains information abo
 - Python
 - Pandas
 - Matplotlib, Seaborn (for visualization)
-- scikit-learn (for predictive modeling)
+- PowerBI
 
 ---
 
@@ -66,6 +66,9 @@ This analysis uses a publicly available HR dataset that contains information abo
 3. **Develop an interactive dashboard** to allow HR to monitor attrition risk in real-time.
 
 ---
+## Screenshot
+![image](https://github.com/user-attachments/assets/2bef0c14-3f07-4b4b-a194-a3e175eb5848)
+
 
 ## How to Run This Project:
 1. Clone the repository.
